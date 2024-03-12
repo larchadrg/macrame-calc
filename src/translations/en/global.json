@@ -23,7 +23,10 @@
             "start2": "Middle",
             "button": "Calculate"
         },
-        "result": "For a bracelet of height {{height,number}} and width {{width,number}}, starting from the {{start}}, you will need to cut {{cordAmount,number}} base cords of {{cordLength,number}} {{unit}} each."
+        "result": {
+            "h2": "Result",
+            "p": "For a bracelet of height {{height,number}} and width {{width,number}}, starting from the {{start}}, you will need to cut {{cordAmount,number}} base cords of {{cordLength,number}} {{unit}} each."
+        }
     },
     "Language": {
         "label": "Language",
