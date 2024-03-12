@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/macrame-calc/static/css/main.84a88b07.css",
+    "main.js": "/macrame-calc/static/js/main.65c0d0c5.js",
+    "static/js/453.8afa4303.chunk.js": "/macrame-calc/static/js/453.8afa4303.chunk.js",
+    "index.html": "/macrame-calc/index.html",
+    "main.84a88b07.css.map": "/macrame-calc/static/css/main.84a88b07.css.map",
+    "main.65c0d0c5.js.map": "/macrame-calc/static/js/main.65c0d0c5.js.map",
+    "453.8afa4303.chunk.js.map": "/macrame-calc/static/js/453.8afa4303.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84a88b07.css",
+    "static/js/main.65c0d0c5.js"
+  ]
+}

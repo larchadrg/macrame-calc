@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.84a88b07.css","mappings":"AAAA,KACI,sBACJ,CAEA,KACI,gBACF,CAEF,iBACI,gBACJ","sources":["index.css"],"sourcesContent":["html {\r\n    scroll-behavior: smooth;\r\n}\r\n\r\nbody {\r\n    padding-top: 55px;\r\n  }\r\n\r\n#cord-calculator {\r\n    padding-top: 50px;\r\n}"],"names":[],"sourceRoot":""}
