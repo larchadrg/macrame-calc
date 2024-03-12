@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding-top: 55px;
+  }
+
+#cord-calculator {
+    padding-top: 50px;
+}
