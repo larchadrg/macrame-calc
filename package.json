@@ -1,7 +1,7 @@
 {
   "name": "macrame-designer-app",
   "version": "0.1.0",
-  "homepage": "larchadrg.github.io/macrame-calc/",
+  "homepage": "https://larchadrg.github.io/macrame-calc/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
